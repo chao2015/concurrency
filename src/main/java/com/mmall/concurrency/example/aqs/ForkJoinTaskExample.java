@@ -9,7 +9,7 @@ import java.util.concurrent.RecursiveTask;
 /**
  * Created by chao on 2018/9/12.
  *
- * fork/join 原理是工作窃取算法
+ * for k/join 原理是工作窃取算法
  */
 
 @Slf4j
